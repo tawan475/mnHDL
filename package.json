@@ -1,8 +1,8 @@
 {
-  "name": "nhentaidl",
+  "name": "nhentaidownloader",
   "version": "1.0.0",
   "description": "Download your favorite nHentai into a buffer zip!",
-  "main": "mnHDL.js",
+  "main": "nhentaidownloader.js",
   "dependencies": {
     "adm-zip": "^0.4.14",
     "axios": "^0.19.2",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tawan475/nhentaidl.git"
+    "url": "git+https://github.com/tawan475/nhentaidownloader.git"
   },
   "keywords": [
     "nhentai",
@@ -23,7 +23,7 @@
   "author": "tawan475",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tawan475/nhentaidl/issues"
+    "url": "https://github.com/tawan475/nhentaidownloader/issues"
   },
-  "homepage": "https://github.com/tawan475/nhentaidl#readme"
+  "homepage": "https://github.com/tawan475/nhentaidownloader#readme"
 }
